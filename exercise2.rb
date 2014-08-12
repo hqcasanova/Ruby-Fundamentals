@@ -1,3 +1,5 @@
+#!/usr/bin/env ruby
+
 #1.Calculating a good tip
 puts "A good tip would be, say, 25% of the total cost."
 tip = 25 * 55 / 100

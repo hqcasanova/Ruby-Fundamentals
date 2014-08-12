@@ -1,3 +1,5 @@
+#!/usr/bin/env ruby
+
 #Greet the user
 puts "What is your name?"
 name = gets.chomp

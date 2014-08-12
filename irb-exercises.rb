@@ -1,3 +1,5 @@
+#!/usr/bin/env ruby
+
 #Doing operations with Ruby and numbers
 puts "NUMBERS"
 puts 5 > 3
